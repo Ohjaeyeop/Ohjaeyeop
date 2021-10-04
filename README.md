@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ohjaeyeop
 - 👀 I’m interested in ...
    - javascript
-   - react
+   - react / vue
    - interactive web
+   - visualization
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 
