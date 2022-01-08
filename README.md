@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Ohjaeyeop
 - 👀 I’m interested in ...
-   - javascript
-   - react / vue
+   - Javascript
+   - Typescript
+   - React
    - interactive web
-- 🌱 I’m currently learning ...
+   - React Native
 - 📫 How to reach me ...
 
 <!---
